@@ -1,1 +1,149 @@
-<mxfile host="app.diagrams.net" modified="2020-12-28T08:43:36.349Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.1.2" etag="kIevMWTPMCs8lql2DTYX" type="github"><diagram id="MAMYxxhLDzNIhrZDvuf2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-28T10:27:46.283Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="JQQ5HO6k2D5q2BTr97M8" version="14.1.2" type="github">
+  <diagram id="MAMYxxhLDzNIhrZDvuf2" name="Page-1">
+    <mxGraphModel dx="2124" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ctJNtNELGzbOXD7AhslK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ctJNtNELGzbOXD7AhslK-1" target="ctJNtNELGzbOXD7AhslK-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="390" />
+              <mxPoint x="440" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ctJNtNELGzbOXD7AhslK-1" target="ctJNtNELGzbOXD7AhslK-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="390" />
+              <mxPoint x="440" y="745" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-22" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E4%B8%8B%E8%BD%BD%E6%89%A7%E8%A1%8C%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22553%22%20y%3D%22260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ctJNtNELGzbOXD7AhslK-12">
+          <mxGeometry x="0.4496" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ctJNtNELGzbOXD7AhslK-1" target="ctJNtNELGzbOXD7AhslK-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="390" />
+              <mxPoint x="440" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ctJNtNELGzbOXD7AhslK-1" target="ctJNtNELGzbOXD7AhslK-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="390" />
+              <mxPoint x="440" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-1" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 12px; font-style: normal; font-weight: 700; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;flashplayer_install_cn.exe&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="360" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ctJNtNELGzbOXD7AhslK-2" target="ctJNtNELGzbOXD7AhslK-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-2" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-size: 12px ; font-style: normal ; font-weight: 700 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;Flash_install_Update.exe&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="60" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ctJNtNELGzbOXD7AhslK-3" target="ctJNtNELGzbOXD7AhslK-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="940" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-3" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-size: 12px ; font-style: normal ; font-weight: 700 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;System.exe&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ctJNtNELGzbOXD7AhslK-4" target="ctJNtNELGzbOXD7AhslK-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.442;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ctJNtNELGzbOXD7AhslK-4" target="ctJNtNELGzbOXD7AhslK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-61" value="本地端口通信" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ctJNtNELGzbOXD7AhslK-52">
+          <mxGeometry x="-0.1231" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-4" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 12px; font-style: normal; font-weight: 700; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Systemt.exe&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-51" value="添加自启动任务计划" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.442;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ctJNtNELGzbOXD7AhslK-5" target="ctJNtNELGzbOXD7AhslK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ctJNtNELGzbOXD7AhslK-5" target="ctJNtNELGzbOXD7AhslK-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-5" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 700 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;Systeam.exe&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-24" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-size: 12px ; font-style: normal ; font-weight: 700 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;正常Flash更新程序&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="60" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-27" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-size: 12px ; font-style: normal ; font-weight: 700 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;端口监听程序&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="280" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ctJNtNELGzbOXD7AhslK-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1250" y="470" as="targetPoint" />
+            <mxPoint x="1100" y="730" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1190" y="730" />
+              <mxPoint x="1190" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ctJNtNELGzbOXD7AhslK-29" target="ctJNtNELGzbOXD7AhslK-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ctJNtNELGzbOXD7AhslK-29" target="ctJNtNELGzbOXD7AhslK-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-29" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;b&gt;具备原始程序所有行为&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="470" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-31" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-size: 12px ; font-style: normal ; font-weight: 700 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;木马客户端&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="700" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-41" value="与服务端建立远程连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="720" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-55" value="下载执行" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="480" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-56" value="下载执行" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="290" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-57" value="下载执行" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="730" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-60" value="添加自启动任务计划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="500" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-67" value="下载执行其他三个可执行文件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="530" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-69" value="添加自启动任务计划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="460" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-72" value="下载执行" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="70" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ctJNtNELGzbOXD7AhslK-73" value="添加自启动任务计划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="90" width="120" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
